@@ -1,0 +1,13 @@
+﻿body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    border: 1px double;
+    font-size: medium;
+    text-align: center;
+    padding: 20px;
+}
